@@ -2,9 +2,9 @@
 require_once './hepsiburada/hepsiburada.php';
 
 $conf = [
-'auth_user' => 'mytoprint_dev',
-'auth_pass' => 'hL3xLMvqMjkdZp!',
-'api_key' => 'abf942a4-7ff5-4518-8c9a-6da0dde76c68',
+'auth_user' => '####',
+'auth_pass' => '####',
+'api_key' => '####',
 ];
 
 $product = new Hepsiburada($conf);//Hepsiburada sınıfının başlatılması.
@@ -152,7 +152,7 @@ $data = array (
   0 => 
   array (
     'categoryId' => 18021982,
-    'merchant' => 'abf942a4-7ff5-4518-8c9a-6da0dde76c68',
+    'merchant' => '###',
     'attributes' => 
     array (
       'merchantSku' => 'PF.RB-02 PBK',
